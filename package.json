@@ -1,0 +1,10 @@
+{
+  "name": "portafolio-edwinjp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  },
+  "author": "Edwin J. Páez",
+  "license": "MIT"
+}
